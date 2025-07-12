@@ -1,0 +1,1 @@
+rootProject.name = "ktor_recipe_book_api"
